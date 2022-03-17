@@ -23,6 +23,6 @@
     "http-server": "0.9.0",
     "replace-in-file": "^3.4.0",
     "swagger-cli": "2.1.0",
-    "swagger-ui-dist": "3.17.2"
+    "swagger-ui-dist": "4.1.3"
   }
 }
